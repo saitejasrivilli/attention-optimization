@@ -15,6 +15,8 @@ A comprehensive benchmarking framework for evaluating and optimizing transformer
 
 ## 📊 Performance Summary
 
+![Attention Benchmark Results](attention_benchmark_results.png)
+
 | Attention Type | Throughput (tok/s) | Memory (MB) | Speed vs Vanilla | Memory vs Vanilla |
 |---|---|---|---|---|
 | Vanilla | 573,824 | 12,582 | 1.0x | 1.0x |
